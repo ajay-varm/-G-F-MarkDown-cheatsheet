@@ -138,5 +138,7 @@ class MainClass {
 
     ---
 
-> ## **These are for now will be updating...**      
+>  **These are basic stuff for most of the usage  and I will update the sheet when i find some complecated stuff with more features...**
+
+`Happy cheating` :)
  
