@@ -1,2 +1,8 @@
-# G_F_MarkDown-cheatsheet
-you ca find all basic templates which we use in GFM
+# **Git Flavour MarkDown cheatsheet**
+
+* **here you will find all git flavoured markdown templates which are used in github** 
+* **this file keeps updating whenever i find some new template**.
+---
+
+> **`Happy cheating on git`** :)
+
