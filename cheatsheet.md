@@ -5,7 +5,7 @@
 * #### **code** : 
    * `<hello every one>`
 * #### **output** : 
-  * > itshows nothing
+  *  itshows nothing
 ## **Normal Text** :
 * **code** :
   * `This is normal text.`
