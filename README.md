@@ -4,5 +4,5 @@
 * **this file keeps updating whenever i find some new template**.
 ---
 
-> **Happy cheating on git** :)
+ **`Happy cheating on git`** :)
 
