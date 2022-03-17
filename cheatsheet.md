@@ -8,7 +8,7 @@
   *  itshows nothing
 ## **Normal Text** :
 * **code** :
-  * `This is normal text.`
+  * ` `This is normal text.` `
 * **Output** :
 
      * This is normal text.
